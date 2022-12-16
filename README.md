@@ -9,8 +9,15 @@ In this project, we will try to analyze the characteristics of airline member, b
 
 For the dataset, we use [flight.csv](https://www.kaggle.com/datasets/felixign/airline-customer), and using **KMeans Clustering** method to help clustering the dataset. K-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean.
 
-[source](https://www.revfine.com/airline-industry/#:~:text=An%20airline%20can%20be%20defined,and%20the%20wider%20travel%20industry.)
-[source](https://en.wikipedia.org/wiki/K-means_clustering)
+[source](https://www.revfine.com/airline-industry/#:~:text=An%20airline%20can%20be%20defined,and%20the%20wider%20travel%20industry.) <br>
+[source](https://en.wikipedia.org/wiki/K-means_clustering) <br>
+
+## Interactive Dashboard
+
+[Dashboard](https://datastudio.google.com/s/sTL7Fh8qvx8)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113813929/208160923-848957f1-18ec-4f92-99be-dd059adb2bfa.png" width=50% height=50%>
+</p>
 
 ## Dataset Explanation
 `MEMBER_NO` : ID Member <br>
